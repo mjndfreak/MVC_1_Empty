@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "D4TY0Yy0lXoDihE0j73z0PYZexioCSzgzJUeBgmnnCs=",
+  "Source": "MVC_1_Empty",
+  "BasePath": "_content/MVC_1_Empty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_1_Empty/wwwroot",
+      "Source": "MVC_1_Empty",
+      "ContentRoot": "/Users/cagdasergenc/RiderProjects/MVC_1_Empty/MVC_1_Empty/wwwroot/",
+      "BasePath": "_content/MVC_1_Empty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
